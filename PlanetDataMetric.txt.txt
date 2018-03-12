@@ -1,0 +1,10 @@
+Planet        Escape Velocity (Km/s)   Mean Temperature (C)    Number of Moons
+Earth                     11.3                    41                     1
+Jupiter                   59.5                  -183                    67
+Mars                       5.0                  -102                     2
+Mercury                    4.3                   315                     0
+Neptune                   23.5                  -347                    13
+Pluto                      1.1                  -392                     5
+Saturn                    35.6                  -237                    62
+Uranus                    21.2                  -337                    27
+Venus                     10.3                   849                     0
